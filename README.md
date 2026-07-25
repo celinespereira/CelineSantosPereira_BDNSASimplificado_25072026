@@ -42,7 +42,5 @@ tb_professor → tb_docencia ← tb_componente_curricular
 - 600 notas (todos os alunos avaliados em todas as atividades da sua turma, com nota 0 para quem não realizou a atividade)
 
 ## Autor
-Desenvolvido por Celine durante as aulas de Banco de Dados na ETEC Adolpho Berezin.
-## Autor
 
-Desenvolvido por **Celine** durante as aulas de Tecnicas de Programação e Algoritmo na ETEC Adolpho Berezin.
+Desenvolvido por **Celine** durante as aulas de Banco de Dados na ETEC Adolpho Berezin.
